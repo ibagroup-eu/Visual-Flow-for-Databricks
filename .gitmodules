@@ -1,0 +1,15 @@
+[submodule "Visual-Flow-databricks-frontend"]
+	path = Visual-Flow-databricks-frontend
+	url = https://github.com/ibagroup-eu/Visual-Flow-databricks-frontend
+[submodule "Visual-Flow-databricks"]
+	path = Visual-Flow-databricks
+	url = https://github.com/ibagroup-eu/Visual-Flow-databricks
+[submodule "Visual-Flow-databricks-history-service"]
+	path = Visual-Flow-databricks-history-service
+	url = https://github.com/ibagroup-eu/Visual-Flow-databricks-history-service
+[submodule "Visual-Flow-backend-job-storage-service"]
+	path = Visual-Flow-backend-job-storage-service
+	url = https://github.com/ibagroup-eu/Visual-Flow-backend-job-storage-service
+[submodule "Visual-Flow-databricks-jobs"]
+	path = Visual-Flow-databricks-jobs
+	url = https://github.com/ibagroup-eu/Visual-Flow-databricks-jobs
