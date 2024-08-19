@@ -41,7 +41,7 @@ Visual Flow application is divided into the following repositories:
 
 ## Contribution
 
-[Check the official guide](https://github.com/ibagroup-eu/Visual-Flow/blob/main/CONTRIBUTING.md)
+[Check the official guide](./CONTRIBUTING.md)
 
 ## License
 
