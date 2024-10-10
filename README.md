@@ -23,6 +23,16 @@ Visual Flow is an ETL/ELT tool designed for effective data management via conven
   - PostgreSQL
   - Redis
   - Redshift
+  - REST API
+- It supports the following file formats:
+  - Delta Lake
+  - Parquet
+  - JSON
+  - CSV
+  - ORC
+  - Avro
+  - Text
+  - Binary (PDF, DOC, Audio files)
 - Leverage direct connectivity to enterprise applications as sources and targets
 - Perform data processing and transformation
 - Run custom code
@@ -37,7 +47,14 @@ Visual Flow application is divided into the following repositories:
 - [Visual-Flow-databricks-history-service](https://github.com/ibagroup-eu/Visual-Flow-databricks-history-service)
 - [Visual-Flow-backend-job-storage-service](https://github.com/ibagroup-eu/Visual-Flow-backend-job-storage-service)
 - [Visual-Flow-databricks-jobs](https://github.com/ibagroup-eu/Visual-Flow-databricks-jobs)
-- [Visual-Flow-deploy](https://github.com/ibagroup-eu/Visual-Flow-deploy/tree/amazon-databricks)
+
+## Install
+
+Visual Flow for Databricks is a cloud K8s application. It can be installed on:
+
+- [AWS](https://github.com/ibagroup-eu/Visual-Flow-deploy/tree/amazon-databricks/INSTALL.md)
+- [Azure](https://github.com/ibagroup-eu/Visual-Flow-deploy/tree/azure-databricks/INSTALL.md)
+- [Google](https://github.com/ibagroup-eu/Visual-Flow-deploy/tree/google-databricks/INSTALL.md)
 
 ## Contribution
 

@@ -1,7 +1,11 @@
+## 0.2.1 (2024-10-10)
+### Fixed:
+- Authorization issue
+
 ## 0.2 (2024-08-19)
 ### Improvements and new features:
-- Added support of OAuth M2M as an authentication mechanism for Databricks service principles.
-- Added ability to configure OAuth while creating a project.
+- Added support of OAuth M2M as an authentication mechanism for Databricks service principles
+- Added ability to configure OAuth while creating a project
 
 ## 0.1 (2024-07-24)
 ### Improvements and new features:
